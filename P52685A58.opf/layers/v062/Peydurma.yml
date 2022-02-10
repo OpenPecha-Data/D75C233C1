@@ -4,12 +4,12 @@ revision: '00001'
 annotations:
   e4c27cab24bd4458a06b6c45ee21d2c7:
     span:
-      start: 11300
-      end: 11300
+      start: 11297
+      end: 11297
   ac67fc324717412a9e76b608b27147a3:
     span:
-      start: 11819
-      end: 11819
+      start: 11816
+      end: 11816
       fail_update: both
 local_ids:
   e4c27cab24bd4458a06b6c45ee21d2c7: 200000
